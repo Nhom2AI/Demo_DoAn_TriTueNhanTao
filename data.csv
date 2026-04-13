@@ -1,0 +1,63 @@
+text,label
+Có bạn đánh nhau trong lớp,khan_cap
+Bạn em bị bắt nạt,khan_cap
+Có học sinh bị thương trong sân trường,khan_cap
+Xảy ra xô xát giữa các học sinh,khan_cap
+Có người lạ vào trường gây rối,khan_cap
+Bạn em bị đe dọa,khan_cap
+Có cháy nhỏ trong phòng học,khan_cap
+Một bạn bị ngất trong lớp,khan_cap
+Có hành vi bạo lực học đường,khan_cap
+Học sinh bị tai nạn trong giờ thể dục,khan_cap
+Có bạn bị đánh trong giờ ra chơi,khan_cap
+Học sinh bị thương ở cầu thang,khan_cap
+Có xô xát trong nhà vệ sinh,khan_cap
+Có bạn bị dọa nạt,khan_cap
+Bạn bị té ngã chảy máu,khan_cap
+Có đánh nhau ngoài sân,khan_cap
+Học sinh bị ngất xỉu,khan_cap
+Có hành vi bắt nạt,khan_cap
+Có nguy cơ cháy điện trong lớp,khan_cap
+Bạn bị hành hung,khan_cap
+
+Nhà vệ sinh bị hỏng nước,quan_trong
+Phòng học bị dột khi trời mưa,quan_trong
+Máy chiếu không hoạt động,quan_trong
+Bàn ghế bị hư hỏng,quan_trong
+Quạt trong lớp không chạy,quan_trong
+Đèn lớp học bị hỏng,quan_trong
+Cửa lớp bị kẹt,quan_trong
+Không có nước uống,quan_trong
+Mạng wifi không ổn định,quan_trong
+Sân trường bị ngập nước,quan_trong
+Phòng học quá nóng,quan_trong
+Thiết bị dạy học bị lỗi,quan_trong
+Máy tính phòng tin học bị hỏng,quan_trong
+Bảng viết bị mờ,quan_trong
+Lớp học thiếu ánh sáng,quan_trong
+Ghế bị gãy,khan_trong
+Cửa sổ bị hỏng,quan_trong
+Hệ thống điện chập chờn,quan_trong
+Bồn rửa tay bị hỏng,quan_trong
+Phòng học bị ẩm mốc,quan_trong
+
+Thầy giảng nhanh quá,binh_thuong
+Em không hiểu bài hôm nay,binh_thuong
+Bài tập về nhà hơi nhiều,binh_thuong
+Môn học này hơi khó,binh_thuong
+Em muốn có thêm tài liệu học,binh_thuong
+Giờ học hơi buồn,binh_thuong
+Em muốn đổi chỗ ngồi,binh_thuong
+Lớp học hơi nóng,binh_thuong
+Thời khóa biểu hơi dày,binh_thuong
+Em góp ý cải thiện thư viện,binh_thuong
+Em muốn học thêm ví dụ,binh_thuong
+Bài giảng hơi khó hiểu,binh_thuong
+Em muốn thêm giờ ôn tập,binh_thuong
+Môn này nhiều lý thuyết,binh_thuong
+Giáo viên nói hơi nhanh,binh_thuong
+Em chưa hiểu bài cũ,binh_thuong
+Cần thêm bài tập thực hành,binh_thuong
+Em muốn học nhóm,binh_thuong
+Bài học chưa rõ ràng,binh_thuong
+Em cần hỗ trợ thêm,binh_thuong
